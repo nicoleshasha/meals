@@ -1,2 +1,0 @@
-# meals
-Github workshop - meals
